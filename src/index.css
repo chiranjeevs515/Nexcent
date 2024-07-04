@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html,body,:root{
+    height: 100%;
+    
+}
+/* index.css */
+
+body {
+    transition: background-color 0.5s, color 0.5s;
+  }
+  
+  
+  
+  .dark{
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+ 
+  
